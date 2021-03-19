@@ -1,4 +1,4 @@
-# game-card
+# flashcard-game
 
 It's a game card with answers and questions
 
