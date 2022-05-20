@@ -1,14 +1,13 @@
 # flashcard-game
 
-It's a game card with answers and questions
-
-You have fully administration pages:
-- Create Account
+It's a play card with responses and questions.
+You have full Administration Pages:
+- Set up an account.
 - Delete Account
 - Change Password
 - Verification Multiple Account
 - Card Reveal
-- Create Card / Delete / Chanching Name
+- Create a map / Remove / Change the name.
 - Create Deck / Update it / Modify
 - Create Category / Delete etc
 - Systeme of Point 
@@ -18,4 +17,4 @@ You have fully administration pages:
   - Scribber
   - User
 
-Fully wrotten in PHP and use PDO
+Entirely wrotten in PHP and utilize PDO.
